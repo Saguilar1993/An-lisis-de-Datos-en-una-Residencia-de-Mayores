@@ -65,5 +65,8 @@ Analizar los ingresos de pacientes en una residencia geriátrica entre 2022 y 20
 
 ---
 
+## ✍️ Autor
 
+**Alberto Saavedra**  
+[LinkedIn](www.linkedin.com/in/alberto-saavedra-aguilar-303274134) 
 
